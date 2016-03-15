@@ -1,2 +1,1 @@
-# hello-world
-This is the second commit
+This is the first commited from developer
